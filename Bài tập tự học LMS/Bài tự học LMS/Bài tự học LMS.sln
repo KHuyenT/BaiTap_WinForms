@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36717.8 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bài tự học LMS", "Bài tự học LMS\Bài tự học LMS.csproj", "{FABC101C-B20A-4E29-BD15-AEE57169CB78}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FABC101C-B20A-4E29-BD15-AEE57169CB78}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FABC101C-B20A-4E29-BD15-AEE57169CB78}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FABC101C-B20A-4E29-BD15-AEE57169CB78}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FABC101C-B20A-4E29-BD15-AEE57169CB78}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0C333CB4-5315-442D-8C2D-0172D1487891}
+	EndGlobalSection
+EndGlobal

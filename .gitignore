@@ -1,0 +1,7 @@
+# Bỏ qua rác hệ thống
+[Bb]in/
+[Oo]bj/
+.vs/
+*.user
+*.suo
+Thumbs.db
